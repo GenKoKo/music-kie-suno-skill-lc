@@ -1,0 +1,29 @@
+# runtime output (generated music, plans, status, usage stats)
+output_music_kie_suno/
+
+# local agent/editor config (author-side helpers, not part of the published skill)
+AGENTS.md
+CLAUDE.md
+.claude/
+.codex/
+.omc/
+
+# explainer slide source backup (kept locally for future edits; not shipped to skill users)
+/slide/
+.pi/
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# article lives on note; author-side copy stays local, not for skill installers
+docs/post/
+
+# images are note/gh-pages concerns; only the README cover rides in git
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.ico
+!docs/slides/p01.png

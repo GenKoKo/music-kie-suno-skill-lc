@@ -1,0 +1,19 @@
+# Changelog
+
+All notable changes to this skill are documented here — one file per version, newest first.
+
+| version | date | contents | details |
+|---|---|---|---|
+| [0.5.8](https://github.com/GenKoKo/music-kie-suno-skill-lc/releases/tag/v0.5.8) | 2026-09-17 | chore: easier-to-click links | [changelog/0.5.8.md](changelog/0.5.8.md) |
+| [0.5.7](https://github.com/GenKoKo/music-kie-suno-skill-lc/releases/tag/v0.5.7) | 2026-09-17 | fix: setup guide registration link | [changelog/0.5.7.md](changelog/0.5.7.md) |
+| [0.5.6](https://github.com/GenKoKo/music-kie-suno-skill-lc/releases/tag/v0.5.6) | 2026-09-15 | feat: disk projection in confirmation gate | [changelog/0.5.6.md](changelog/0.5.6.md) |
+| [0.5.5](https://github.com/GenKoKo/music-kie-suno-skill-lc/releases/tag/v0.5.5) | 2026-09-15 | fix: track numbering continues past 999/day | [changelog/0.5.5.md](changelog/0.5.5.md) |
+| [0.5.4](https://github.com/GenKoKo/music-kie-suno-skill-lc/releases/tag/v0.5.4) | 2026-09-15 | safety: disk space pre-submit guard | [changelog/0.5.4.md](changelog/0.5.4.md) |
+| [0.5.3](https://github.com/GenKoKo/music-kie-suno-skill-lc/releases/tag/v0.5.3) | 2026-09-15 | fix: CJK titles preserved in track filenames | [changelog/0.5.3.md](changelog/0.5.3.md) |
+| [0.5.2](https://github.com/GenKoKo/music-kie-suno-skill-lc/releases/tag/v0.5.2) | 2026-09-13 | docs, report rework & file schemas, interaction guidance, agent naming | [changelog/0.5.2.md](changelog/0.5.2.md) |
+| 0.5.1 | 2026-09-12 | docs: install location & model clarifications | [changelog/0.5.1.md](changelog/0.5.1.md) |
+| 0.5.0 | 2026-09-12 | V6 jobs API migration (breaking) | [changelog/0.5.0.md](changelog/0.5.0.md) |
+| 0.4.0 | 2026-09-11 | superseded draft (V5_5-era) | [changelog/0.4.0-draft.md](changelog/0.4.0-draft.md) |
+| 0.3.0 | 2026-09-10 | onboarding for non-engineers | [changelog/0.3.0.md](changelog/0.3.0.md) |
+| 0.2.0 | 2026-09-10 | style variation combos & techniques | [changelog/0.2.0.md](changelog/0.2.0.md) |
+| 0.1.0 | 2026-09-10 | initial release | [changelog/0.1.0.md](changelog/0.1.0.md) |
